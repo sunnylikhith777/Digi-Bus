@@ -1,0 +1,264 @@
+{
+  "Cities": [
+    {
+      "id": "1",
+      "Name": "Rajahmundry"
+    },
+    {
+      "id": "2",
+      "Name": "Vijayawada"
+    },
+    {
+      "id": "3",
+      "Name": "Hyderabad"
+    },
+    {
+      "id": "4",
+      "Name": "Visakhapatnam"
+    },
+    {
+      "id": "5",
+      "Name": "Srikakulam"
+    },
+    {
+      "id": "6",
+      "Name": "Kurnool"
+    },
+    {
+      "id": "7",
+      "Name": "Kakinada"
+    },
+    {
+      "id": "8",
+      "Name": "Nellore"
+    }
+  ],
+  "Buses": [
+    {
+      "id": "1",
+      "Name": "Godavari Travels",
+      "Time": "08:35PM",
+      "Price": "670",
+      "TotalSeats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "AvailableSeats": [
+        2,
+        3,
+        5,
+        6,
+        7,
+        9
+      ]
+    },
+    {
+      "id": "2",
+      "Name": "Amaravathi",
+      "Time": "10:15PM",
+      "Price": "900",
+      "TotalSeats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "AvailableSeats": [
+        1,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "id": "3",
+      "Name": "Orange Travels",
+      "Time": "04:40PM",
+      "Price": "890",
+      "TotalSeats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "AvailableSeats": [
+        2,
+        7,
+        8,
+        10
+      ]
+    },
+    {
+      "id": "4",
+      "Name": "Sks Travels",
+      "Time": "12:00AM",
+      "Price": "1100",
+      "TotalSeats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "AvailableSeats": [
+        1,
+        2,
+        5,
+        7
+      ]
+    }
+  ],
+  "BookingDetails": [
+    {
+      "id": "",
+      "Name": "",
+      "Start": "",
+      "Destination": "",
+      "UserName": "",
+      "Price": ""
+    },
+    {
+      "id": "eddb",
+      "Name": "sunny",
+      "Start": "",
+      "Destination": "",
+      "Price": 1800
+    },
+    {
+      "id": "aa4d",
+      "Name": "sunny",
+      "Start": "",
+      "Destination": "",
+      "Price": 1780
+    },
+    {
+      "id": "1280",
+      "Name": "sunny",
+      "Start": "",
+      "Destination": "",
+      "Price": 1780
+    },
+    {
+      "id": "651e",
+      "Name": "sunny",
+      "Start": "",
+      "Destination": "",
+      "Price": 2010
+    },
+    {
+      "id": "ae28",
+      "Name": "sunny",
+      "Start": "",
+      "Destination": "",
+      "Price": 1340
+    },
+    {
+      "id": "77b3",
+      "Name": "sunny",
+      "Start": "",
+      "Destination": "",
+      "Price": 1800
+    },
+    {
+      "id": "a6d9",
+      "Name": "sunny",
+      "Start": "",
+      "Destination": "",
+      "Price": 1800
+    },
+    {
+      "id": "9490",
+      "Name": "sunny",
+      "Start": "",
+      "Destination": "",
+      "Price": 670
+    },
+    {
+      "id": "e1e9",
+      "Name": "sunny",
+      "Start": "",
+      "Destination": "",
+      "Price": 2200
+    },
+    {
+      "id": "d680",
+      "Name": "sunny",
+      "Start": "",
+      "Destination": "",
+      "Price": 2700
+    },
+    {
+      "id": "7da9",
+      "Name": "sunny",
+      "Start": "",
+      "Destination": "",
+      "Price": 670
+    }
+  ]
+}
