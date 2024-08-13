@@ -1,6 +1,6 @@
 import React, { useRef, useState } from 'react';
 import emailjs from '@emailjs/browser';
-import { Box, Button, Card, Input, Textarea, FormLabel, useToast, Text } from '@chakra-ui/react';
+import { Box, Button, Card, Input, FormLabel, useToast, Text } from '@chakra-ui/react';
 import { useLocation } from 'react-router-dom';
 
 const User = () => {

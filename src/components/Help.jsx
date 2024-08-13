@@ -1,6 +1,5 @@
 import { Box, Card, Text } from "@chakra-ui/react";
 import React from "react";
-import Bus from "../Assets/2.jpg";
 import HelpImage from '../Assets/2.jpg';
 
 const Help=()=>{

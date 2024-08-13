@@ -38,7 +38,7 @@ function Home() {
 
     const handleSearch = () => {
         const { fromCity, toCity, date } = form;
-        if (fromCity==toCity){
+        if (fromCity===toCity){
             toast({
                 title: "Start And Destination Could Not be Same",
                 description: "Start And Destination Could Not be Same",

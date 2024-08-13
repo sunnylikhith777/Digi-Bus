@@ -5,7 +5,7 @@ import { useLocation, useNavigate } from "react-router-dom";
 const Seatings = () => {
     const navigate = useNavigate();
     const location = useLocation();
-    const { busName, price, busId, fromCity, toCity, date, totalSeats, availableSeats } = location.state || {};
+    const { busName, price, fromCity, toCity, date, totalSeats, availableSeats } = location.state || {};
     
     const [selectedSeats, setSelectedSeats] = useState([]);
     const [totalPrice, setTotalPrice] = useState(0);
